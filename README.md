@@ -4,6 +4,9 @@ A list of resources to build a mechanical keyboard from scratch
 # PCB guide
 https://github.com/ruiqimao/keyboard-pcb-guide
 
+# Code guide with firmwares
+https://github.com/tmk/tmk_keyboard
+
 # Parts to buy on Brazilian stores
 - **At mega microcontroller**: https://br.mouser.com/ProductDetail/Microchip-Technology-Atmel/ATMEGA32U4-AU?qs=SSucg2PyLi7mKWjHIsNJ3w%3D%3D
 - **Cherry mx switches**: https://br.mouser.com/ProductDetail/CHERRY/MX1A-E1NN?qs=sGAEpiMZZMvxtGF7dlGNpveMb10hejWL5E5OKhzvLWM%3D
